@@ -7,3 +7,7 @@ Now, we can do a few processes to enrich this list. One obvious approach would b
 Ideally, Tescos would have been better but they have suspended their API for the moment. Morrisons was far too complicated for the current skill level and time investment. The correleation with weather was sidelined due to difficulty accessing historical weather information. For the project at hand, we had to defer to an imprecise collection of prices from a random super market website that provided a relatively easy opportunity for web scraping some of their data. We found Waitrose's clean presentation and reduced brand-name count easier to manage as they show support for their in-house brand a great deal more, which simplified the process of finding a yogurt purchase, for example.
 
 The results are unfinished. Unfortunately, the technical difficulties of web scraping and cleaning data still need to be resolved but it is a good start and a interesting experiment for improving our skills.
+
+For our exploratory steps with the dataset read the jupyter notebook **data-pipeline-data_set.ipynb**.
+
+For a look at our scraping process open jupyter 
