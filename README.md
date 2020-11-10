@@ -10,4 +10,4 @@ The results are unfinished. Unfortunately, the technical difficulties of web scr
 
 For our exploratory steps with the dataset read the jupyter notebook **data-pipeline-data_set.ipynb**.
 
-For a look at our scraping process open jupyter 
+For a look at our scraping process open jupyter **data-pipeline-enrichment.ipynb**.
